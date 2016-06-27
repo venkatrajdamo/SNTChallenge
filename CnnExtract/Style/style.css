@@ -1,0 +1,82 @@
+*{
+margin:0;
+padding:0;
+}
+body
+{
+background:url(/CnnExtract/StyleImage/background.jpg) repeat-x #D7D7D7;
+font-family:Arial, Helvetica, sans-serif;
+
+}
+#container
+{
+width:960px;
+margin: 0 auto;
+}
+#header
+{
+height:80px;
+padding:20px;
+font-family:"Trebuchet MS";
+color:#FFFFFF;
+font-size:24px;
+}
+#mid-panel
+{
+width:400px;
+border:#CCCCCC solid 1px;
+background:#F9F8F8;
+border-radius:5px;
+-moz-box-shadow: 1px 1px 1px 1px #ccc;
+-webkit-box-shadow: 1px 1px 1px 1px #ccc;
+box-shadow: 1px 1px 1px 1px #ccc;
+color:#017DBA;
+font-size:18px;
+padding:10px;
+}
+#mid-panel input
+{
+padding:5px;
+font-size:18px;
+border-radius:5px;
+border:solid #CCCCCC 1px;
+width:100px;
+}
+#content
+{
+min-height:500px;
+}
+input
+{
+padding:5px;
+margin-top: 10px;
+font-size:14px;
+border-radius:2px;
+border:solid #CCCCCC 1px;
+}
+
+#images-panel
+{
+font-family:"Trebuchet MS";
+width:auto;
+border:#CCCCCC solid 1px;
+background:#F9F8F8;
+border-radius:5px;
+-moz-box-shadow: 1px 1px 1px 1px #ccc;
+-webkit-box-shadow: 1px 1px 1px 1px #ccc;
+box-shadow: 1px 1px 1px 1px #ccc;
+color:#017DBA;
+font-size:18px;
+padding:20px;
+color:#FF6600;
+}
+#footer
+{
+height:50px;
+color:#999999;
+font-family:Arial, Helvetica, sans-serif;
+font-size:10px;
+}
+
+.style1 {color: #FF6600}
+.style3 {font-size: 14px}
